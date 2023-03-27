@@ -62,5 +62,6 @@ public class Main {
         System.out.println("Maior faturamento: R$" + maiorFaturamento);
         System.out.println("Média mensal de faturamento: R$" + mediaMensal);
         System.out.println("Número de dias com faturamento acima da média: " + numDiasAcimaMedia);
+        
     }
 }
